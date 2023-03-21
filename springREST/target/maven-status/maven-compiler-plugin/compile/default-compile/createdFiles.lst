@@ -1,0 +1,4 @@
+com\quest8Spring\springREST\SpringRestApplication.class
+com\quest8Spring\springREST\controller\BookController.class
+com\quest8Spring\springREST\repository\BookRepository.class
+com\quest8Spring\springREST\entity\Book.class
